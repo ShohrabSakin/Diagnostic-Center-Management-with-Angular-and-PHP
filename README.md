@@ -24,9 +24,9 @@ This project attempted to develop a web-based, computer-aided management system 
 
     2. Extract the files and copy those  files in your preferable Xampp folder [C/D/E].
 
-    3. Make two folder name  "REACT" and "LARAVEL" in your preferable Xampp folder [C/D/E].
+    3. Make a folder name "ANGULAR" in your preferable Xampp folder [C/D/E].
     
-    4. In LARAVEL folder keep the "sakin" file. Which was used for Back end.
+    4. In ANGULAR folder keep the "sakin" file. Which was used for Back end.
 
     5. In REACT folder keep the "hacker-stories" file. Which was used for Front end.
 
@@ -73,7 +73,7 @@ This project attempted to develop a web-based, computer-aided management system 
 
 ## Tech Stack
 
-**Client:** React
+**Client:** Angular 16
 
-**Server:** Node, Git, Laravel
+**Server:** Node, Git, PHP 7
 
