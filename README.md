@@ -49,17 +49,15 @@ This project attempted to develop a web-based, computer-aided management system 
 
 ## Features
 
-- Information about Visiting places, Hotels, Packages, Flights etc.
-- Package booking
-- JWT authentication
-- Search booking by date 
-- Booking payment entries
-- Services
-- Hotel booking / Chek-in information 
-- Hotel services, rooms, floors entries
-- Hotel services payment 
-- Hotel Check-out with printed bill
-
+- JWT Authentication.
+- Doctors appointment.
+- Doctors Entry.
+- Doctors commission per test.
+- Pathology tests entries.
+- Pathology tests group entries.
+- Pathology Sales bill with print.
+- Voucher wise sales details report.
+  
 
 ## Tech Stack
 
