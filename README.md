@@ -26,33 +26,23 @@ This project attempted to develop a web-based, computer-aided management system 
 
     3. Make a folder name "ANGULAR" in your preferable Xampp folder [C/D/E].
     
-    4. In ANGULAR folder keep the "sakin" file. Which was used for Back end.
+    4. In ANGULAR folder keep the "SAKIN" file. Which was used for Front end.
 
-    5. In REACT folder keep the "hacker-stories" file. Which was used for Front end.
+    5. Open phpMyAdmin (http://localhost/phpmyadmin/)
 
-    6. Open phpMyAdmin (http://localhost/phpmyadmin/)
+    7. Create a database with name "angular" 
 
-    7. Create a database with name "react" 
+    8. Import "angular.sql" file (given inside the zip package in "Database" folder).
 
-    8. Import "react.sql" file (given inside the zip package in "Database" folder).
+    9. Run ANGULAR :
 
-    9. Run LARAVEL :
-    
-        - Open C:\ xampp \ htdocs \ LARAVEL \ sakin folder. [ Root directory ]
+         - Open C:\ xampp \ htdocs \ ANGULAR \ SAKIN folder. [ Root directory ]
 
-        - Open git bash here or your Terminal > run  "php artisan serve" [ Laravel CLI ]
-
-        - Open a browser run localhost:8000 [ Not mandatory ]
-
-    10. Run REACT :
-
-         - Open C:\ xampp \ htdocs \ REACT \ hacker-stories folder. [ Root directory ]
-
-         - Open git bash here or your Terminal > run  "npm start" [ REACT CLI ]
+         - Open git bash here or your Terminal > run  "ng serve" [ ANGULAR CLI ]
 
          - Open a browser run localhost:4200 [ Mandatory ]
 
-     11. Admin Credential
+     10. Admin Credential
 
           Username: admin
           Password: admin
