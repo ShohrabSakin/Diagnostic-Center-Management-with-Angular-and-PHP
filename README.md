@@ -18,6 +18,25 @@ This project attempted to develop a web-based, computer-aided management system 
 
 ## Some Project Screenshots
 
+![Dashboard](https://github.com/ShohrabSakin/Diagnostic-Center-Management-with-Angular-and-PHP/assets/162773557/78835d24-5d8b-4d61-9e32-57a715d9345b)
+
+![JWT Authentication](https://github.com/ShohrabSakin/Diagnostic-Center-Management-with-Angular-and-PHP/assets/162773557/3c2dbfbf-4a7c-4412-9ba0-9f2fbc0b81df)
+
+![Doctors](https://github.com/ShohrabSakin/Diagnostic-Center-Management-with-Angular-and-PHP/assets/162773557/3eb8be53-e2fd-42ec-8e36-eb0786c6b756)
+
+![Doctor Commission](https://github.com/ShohrabSakin/Diagnostic-Center-Management-with-Angular-and-PHP/assets/162773557/c2052f81-bbc1-4a3a-bb7b-fc0483e37544)
+
+![Appointment](https://github.com/ShohrabSakin/Diagnostic-Center-Management-with-Angular-and-PHP/assets/162773557/85adc50b-1c8d-4759-ade2-0e48468ba130)
+
+![Group Entry](https://github.com/ShohrabSakin/Diagnostic-Center-Management-with-Angular-and-PHP/assets/162773557/a49fcb27-023a-4047-a6b0-c8d3b58848cb)
+
+![Sales Details Report](https://github.com/ShohrabSakin/Diagnostic-Center-Management-with-Angular-and-PHP/assets/162773557/ddeb4434-b9ff-4e30-af38-3b0dd3cc19af)
+
+![Pathology Sales](https://github.com/ShohrabSakin/Diagnostic-Center-Management-with-Angular-and-PHP/assets/162773557/3cce8dfc-add6-44cb-9bba-67ea91702b00)
+
+
+
+
 
   ## How to run the project
     1. Download the zip file.
